@@ -1,0 +1,14 @@
+                    FOOR LOOPS
+
+for bu => takroriy amalarni bajarilganda qullaniladi. for skili quyidagicha buladi js da 
+for(let i = 0; i < varibale_name.length; i++){
+    amalar keltiraldi
+}
+
+syntaxs tushunchalari
+() => for loopga quyiladigan shartlar qavs ichida yoziladi yani foorga tigishli shart ekanligini bildirib turadi
+let i = 0; => foorda o'zgaruvchi yaratilib olinadi shu o'zgaruvchi orqali amalar bajariladi lekin bu o'zgaruvchi foor qolipidan tashqarida ishlamaydi bu foor loopni qancha aylnganini sanab turadi
+i < varibale_name.length; => bu yerga loopni necha marta aylanganini aylantirish uchun shart quyiladi va shu shart buyicha loop dagi amalarni bajariladi
+i++; => bittadan oshirib boradi va bizdan quyilgan shartga teng bulib qolganda loop ni tuxtadi
+{} => for ni qolipni bildaradi va for ichidagi bacha amalarni shu forga tegishli ekanini bildiradi
+
